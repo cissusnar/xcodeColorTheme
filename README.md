@@ -3,7 +3,7 @@ xcodeColorTheme
 
 xcode color theme
 
-Installation
+**Installation:**
 
-mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ && cp Taology.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ && cp Taology.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
